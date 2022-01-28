@@ -5,8 +5,6 @@
 - Two of those projects are barely maintained nowadays.
 - Can't think of anymore.
 
-<br />
-
 ## Languages & Tools:
 <img align="left" alt="C#" width="24px" src="https://github.com/prokenz101/prokenz101/blob/main/media/csharp 24x24.png"/>
 <img align="left" alt="Python" width="24px" src="https://github.com/prokenz101/prokenz101/blob/main/media/python 24x24.png"/>
