@@ -11,7 +11,6 @@
 [<img align="left" alt="AutoHotkey" width="24px" src="https://github.com/prokenz101/prokenz101/blob/main/media/autohotkey.png"/>][autohotkey]
 [<img align="left" alt="Visual Studio Code" width="24px" src="https://github.com/prokenz101/prokenz101/blob/main/media/vscode.png" />][vscode]
 [<img align="left" alt="Git" width="24px" src="https://github.com/prokenz101/prokenz101/blob/main/media/git.png"/>][git]
-[<img align="left" alt="GitHub" width="24px" src="https://github.com/prokenz101/prokenz101/blob/main/media/github.png"/>][github]
 
 <br />
 
@@ -30,7 +29,6 @@
 [autohotkey]: "https://autohotkey.com"
 [vscode]: "https://code.visualstudio.com/"
 [git]: "https://git-scm.com/"
-[github]: "https://github.com"
 [twitter]: "https://twitter.com/prokenz101"
 [reddit]: "https://www.reddit.com/user/prokenz101"
 [youtube]: "https://www.youtube.com/channel/UCMuYby0UV0KBxIh9YgyMX2g"
