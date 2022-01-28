@@ -1,7 +1,5 @@
 # Hello there! I'm prokenz101.
 
-<br />
-
 ## Facts about me:
 - I run 3 projects as of writing this.
 - Two of those projects are barely maintained nowadays.
