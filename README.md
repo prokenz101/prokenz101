@@ -1,9 +1,9 @@
 # Hello there! I'm prokenz101.
 
 ## Facts about me:
-- I run 3 projects as of writing this.
-- Two of those projects are barely maintained nowadays.
-- Can't think of anymore.
+- Alive
+- Can breathe
+- Runs 3 projects as of writing this.
 
 ## Languages & Tools:
 [<img align="left" alt="C#" width="24px" src="https://github.com/prokenz101/prokenz101/blob/main/media/csharp.png"/>](https://docs.microsoft.com/en-us/dotnet/csharp/)
