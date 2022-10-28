@@ -3,7 +3,7 @@
 ## Facts about me:
 - Alive
 - Can breathe
-- Runs 5 projects as of writing this.
+- Runs 6 projects as of writing this.
 
 ## Languages & Tools:
 [<img align="left" alt="C#" width="24px" src="https://github.com/prokenz101/prokenz101/blob/main/media/csharp.png"/>](https://docs.microsoft.com/en-us/dotnet/csharp/)
