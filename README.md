@@ -1,8 +1,6 @@
 # Hello there! I'm prokenz101.
 
 ## Facts about me:
-- Alive
-- Can breathe
 - Runs 6 projects as of writing this.
 
 ## Languages & Tools:
