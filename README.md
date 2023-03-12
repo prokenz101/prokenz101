@@ -20,4 +20,9 @@
 <br />
 
 ## GitHub Statistics
-[![proken101's GitHub Stats](https://github-readme-stats.vercel.app/api?username=prokenz101)](https://github.com/prokenz101/github-readme-stats)
+![prokenz101's GitHub stats](https://github-readme-stats.vercel.app/api?username=prokenz101&show_icons=true)
+
+## My Most Used Languages:
+![Most Used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prokenz101&layout=compact)
+
+(yeah, it's just C#)
