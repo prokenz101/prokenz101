@@ -1,7 +1,7 @@
-# Hello there! I'm prokenz101.
+# Hello.
 
-## Facts about me:
-- Runs 6 projects as of writing this.
+## About me:
+- Actively maintaining [0](https://github.com/prokenz101?tab=repositories) projects.
 
 ## Languages & Tools:
 [<img align="left" alt="C#" width="24px" src="https://github.com/prokenz101/prokenz101/blob/main/media/csharp.png"/>](https://docs.microsoft.com/en-us/dotnet/csharp/)
@@ -21,8 +21,5 @@
 
 ## GitHub Statistics
 ![prokenz101's GitHub stats](https://github-readme-stats.vercel.app/api?username=prokenz101&show_icons=true)
-
-## My Most Used Languages:
+<br />
 ![Most Used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prokenz101&layout=compact)
-
-(yeah, it's just C#)
