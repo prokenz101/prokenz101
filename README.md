@@ -1,7 +1,7 @@
 # Hello.
 
 ## About me:
-- Actively maintaining [0](https://github.com/prokenz101?tab=repositories) projects.
+- Actively maintaining 0 [projects](https://github.com/prokenz101?tab=repositories).
 
 ## Languages & Tools:
 [<img align="left" alt="C#" width="24px" src="https://github.com/prokenz101/prokenz101/blob/main/media/csharp.png"/>](https://docs.microsoft.com/en-us/dotnet/csharp/)
