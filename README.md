@@ -12,13 +12,6 @@
 
 <br />
 
-## Connections:
-[<img align="left" alt="Twitter" width="24px" src="https://github.com/prokenz101/prokenz101/blob/main/media/twitter.png"/>](https://twitter.com/prokenz101)
-[<img align="left" alt="Reddit" width="24px" src="https://github.com/prokenz101/prokenz101/blob/main/media/reddit.png"/>](https://www.reddit.com/user/prokenz101)
-[<img align="left" alt="YouTube" width="24px" src="https://github.com/prokenz101/prokenz101/blob/main/media/youtube.png"/>](https://www.youtube.com/channel/UCMuYby0UV0KBxIh9YgyMX2g)
-
-<br />
-
 ## GitHub Statistics
 ![prokenz101's GitHub stats](https://github-readme-stats.vercel.app/api?username=prokenz101&show_icons=true)
 <br />
