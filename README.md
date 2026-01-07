@@ -11,8 +11,3 @@
 [<img align="left" alt="Git" width="24px" src="https://github.com/prokenz101/prokenz101/blob/main/media/git.png"/>](https://git-scm.com/)
 
 <br />
-
-## GitHub Statistics
-![prokenz101's GitHub stats](https://github-readme-stats.vercel.app/api?username=prokenz101&show_icons=true)
-<br />
-![Most Used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prokenz101&layout=compact)
