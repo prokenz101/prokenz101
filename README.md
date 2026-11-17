@@ -7,11 +7,8 @@
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/"><img align="left" alt="C#" width="24px" src="https://raw.githubusercontent.com/prokenz101/prokenz101/main/media/csharp.png" /></a>
 <a href="https://www.c-language.org/"><img align="left" alt="C" width="24px" src="https://raw.githubusercontent.com/prokenz101/prokenz101/main/media/c.png" /></a>
 <a href="https://www.rust-lang.org/">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/prokenz101/prokenz101/main/media/rust_dark_mode.png" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/prokenz101/prokenz101/main/media/rust_light_mode.png" />
-    <img align="left" alt="Rust" width="24px" src="https://raw.githubusercontent.com/prokenz101/prokenz101/main/media/rust_light_mode.png" />
-  </picture>
+  <img align="left" alt="Rust" width="24px" src="https://raw.githubusercontent.com/prokenz101/prokenz101/main/media/rust_dark_mode.png#gh-dark-mode-only" />
+  <img align="left" alt="Rust" width="24px" src="https://raw.githubusercontent.com/prokenz101/prokenz101/main/media/rust_light_mode.png#gh-light-mode-only" />
 </a>
 <a href="https://python.org/"><img align="left" alt="Python" width="24px" src="https://raw.githubusercontent.com/prokenz101/prokenz101/main/media/python.png" /></a>
 <a href="https://autohotkey.com/"><img align="left" alt="AutoHotkey" width="24px" src="https://raw.githubusercontent.com/prokenz101/prokenz101/main/media/autohotkey.png" /></a>
