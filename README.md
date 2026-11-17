@@ -4,16 +4,18 @@
 - Actively maintaining 0 [projects](https://github.com/prokenz101?tab=repositories).
 
 ## Languages & Tools:
-[<img align="left" alt="C#" width="24px" src="https://github.com/prokenz101/prokenz101/blob/main/media/csharp.png"/>](https://docs.microsoft.com/en-us/dotnet/csharp/)
-[<img align="left" alt="C" width="24px" src="https://github.com/prokenz101/prokenz101/blob/main/media/c.png"/>](https://www.c-language.org/)
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/prokenz101/prokenz101/blob/main/media/rust_dark_mode.png" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/prokenz101/prokenz101/blob/main/media/rust_light_mode.png" />
-  <img alt="Rust" src="https://cdn.simpleicons.org/rust/black" width="24" height="24" />
-</picture>
-[<img align="left" alt="Python" width="24px" src="https://github.com/prokenz101/prokenz101/blob/main/media/python.png"/>](https://python.org/)
-[<img align="left" alt="AutoHotkey" width="24px" src="https://github.com/prokenz101/prokenz101/blob/main/media/autohotkey.png"/>](https://autohotkey.com/)
-[<img align="left" alt="Visual Studio Code" width="24px" src="https://github.com/prokenz101/prokenz101/blob/main/media/vscode.png" />](https://code.visualstudio.com/)
-[<img align="left" alt="Git" width="24px" src="https://github.com/prokenz101/prokenz101/blob/main/media/git.png"/>](https://git-scm.com/)
-[<img align="left" alt="Figma" width="24px" src="https://github.com/prokenz101/prokenz101/blob/main/media/figma.png"/>](https://figma.com/)
-<br />
+<a href="https://docs.microsoft.com/en-us/dotnet/csharp/"><img align="left" alt="C#" width="24px" src="./media/csharp.png" /></a>
+<a href="https://www.c-language.org/"><img align="left" alt="C" width="24px" src="./media/c.png" /></a>
+<a href="https://www.rust-lang.org/">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./media/rust_dark_mode.png" />
+    <source media="(prefers-color-scheme: light)" srcset="./media/rust_light_mode.png" />
+    <img align="left" alt="Rust" width="24px" src="./media/rust_light_mode.png" />
+  </picture>
+</a>
+<a href="https://python.org/"><img align="left" alt="Python" width="24px" src="./media/python.png" /></a>
+<a href="https://autohotkey.com/"><img align="left" alt="AutoHotkey" width="24px" src="./media/autohotkey.png" /></a>
+<a href="https://code.visualstudio.com/"><img align="left" alt="Visual Studio Code" width="24px" src="./media/vscode.png" /></a>
+<a href="https://git-scm.com/"><img align="left" alt="Git" width="24px" src="./media/git.png" /></a>
+<a href="https://figma.com/"><img align="left" alt="Figma" width="24px" src="./media/figma.png" /></a>
+<br clear="left" />
